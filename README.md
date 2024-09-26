@@ -14,4 +14,8 @@ The application has three different web pages. The first one displays all the re
 
 Credit: IBM Skills Network
 
-To run the app, clone the repo, cd into the project folder and run the following command in the terminal: python3.11 app.py
+To run the app:
+- Clone the repo
+- cd into the project folder
+- run the following command in the terminal:
+- <code>python3.11 app.py</code>
